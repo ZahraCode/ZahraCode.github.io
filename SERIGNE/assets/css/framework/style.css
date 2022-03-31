@@ -1,0 +1,35 @@
+div i{
+    color:black;
+    font-size: 4rem;
+}
+div{
+    background-color: beige;
+}
+body{
+    background-color: brown;
+}
+.container{
+    width:500px;
+    height: 250px;
+}
+.contenu {
+    padding: 10px;
+}
+ p a{
+    background-color: green;
+    color:white;
+    padding: 14px;
+}
+p a:hover{
+     background-color: blue;
+    transform: scale(1.2);
+}
+
+.container {
+    background-color:white;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    padding:15px;
+    width:550px;
+}
